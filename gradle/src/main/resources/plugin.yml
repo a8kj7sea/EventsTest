@@ -1,0 +1,5 @@
+name: EventsExample
+version: 1.0
+main: "me.a8kj.spigot.events.gradletemplate.Main"
+api-version: '1.13'
+author: a8kj
